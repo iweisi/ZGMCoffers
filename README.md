@@ -20,7 +20,7 @@
 <br/>
 
 
-| 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | <img src="https://github.com/zgm1547497656/ZGMCoffers/tree/master/styleImg/fujiajineng.jpg" width=""/>  |💡
+| 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | <img src="https://github.com/zgm1547497656/ZGMCoffers/tree/master/styleImg/fujiajineng.jpg"title='images' style='max-width:600px'></img>  |💡
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
 | [集合](#常用集合) | [多线程](#java-多线程)|[JVM](#jvm) | [分布式](#分布式相关) |[框架](#常用框架第三方组件)|[架构设计](#架构设计)| [数据库](#db-相关) |[算法](#数据结构与算法)|[Netty](#netty-相关)| [附加技能](#附加技能)|[联系作者](#联系作者) |
 
