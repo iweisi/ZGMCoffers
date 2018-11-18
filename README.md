@@ -98,46 +98,6 @@
 </div>
 </div>
 
-<script type="text/javascript" src="./style/js/jquery-1.9.1.min.js"></script>
-<script type="text/javascript">
-	$(function(){
-	var thisTime;
-	$('.nav-ul li').mouseleave(function(even){
-			thisTime	=	setTimeout(thisMouseOut,1000);
-	})
-
-	$('.nav-ul li').mouseenter(function(){
-		clearTimeout(thisTime);
-		var thisUB	=	$('.nav-ul li').index($(this));
-		if($.trim($('.nav-slide-o').eq(thisUB).html()) != "")
-		{
-			$('.nav-slide').addClass('hover');
-			$('.nav-slide-o').hide();
-			$('.nav-slide-o').eq(thisUB).show();
-		}
-		else{
-			$('.nav-slide').removeClass('hover');
-		}
-		
-	})
-	
-	function thisMouseOut(){
-		$('.nav-slide').removeClass('hover');
-	}
-	 
-	$('.nav-slide').mouseenter(function(){
-		clearTimeout(thisTime);
-		$('.nav-slide').addClass('hover');
-	})
-	$('.nav-slide').mouseleave(function(){
-		$('.nav-slide').removeClass('hover');
-	})
-
-})
-</script>
-
-
-
 | 📊 |⚔️ | 🖥 | 🚏 | 🏖  | 🌁| 📮 | 🔍 | 🚀 | <img src="style/images/fujiajineng.jpg" title='images' style='max-width:600px'></img>  |💡
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
 | [集合](#常用集合) | [多线程](#java-多线程)|[JVM](#jvm) | [分布式](#分布式相关) |[框架](#常用框架第三方组件)|[架构设计](#架构设计)| [数据库](#db-相关) |[算法](#数据结构与算法)|[Netty](#netty-相关)| [附加技能](#附加技能)|[联系作者](#联系作者) |
@@ -230,3 +190,40 @@
 > 
 
 <img src="" width="300"/> 
+<script type="text/javascript" src="./style/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript">
+	$(function(){
+	var thisTime;
+	$('.nav-ul li').mouseleave(function(even){
+			thisTime	=	setTimeout(thisMouseOut,1000);
+	})
+
+	$('.nav-ul li').mouseenter(function(){
+		clearTimeout(thisTime);
+		var thisUB	=	$('.nav-ul li').index($(this));
+		if($.trim($('.nav-slide-o').eq(thisUB).html()) != "")
+		{
+			$('.nav-slide').addClass('hover');
+			$('.nav-slide-o').hide();
+			$('.nav-slide-o').eq(thisUB).show();
+		}
+		else{
+			$('.nav-slide').removeClass('hover');
+		}
+		
+	})
+	
+	function thisMouseOut(){
+		$('.nav-slide').removeClass('hover');
+	}
+	 
+	$('.nav-slide').mouseenter(function(){
+		clearTimeout(thisTime);
+		$('.nav-slide').addClass('hover');
+	})
+	$('.nav-slide').mouseleave(function(){
+		$('.nav-slide').removeClass('hover');
+	})
+
+})
+</script>
