@@ -15,7 +15,7 @@
 
 > `Java Coffers`： Java 小金库。
 
-**访问这里获取更好的阅读体验**：[博客还没有](https://zgm1547497656.github.io/ZGMCoffers/index.html)
+[**访问这里获取更好的阅读体验**](https://zgm1547497656.github.io/ZGMCoffers/index.html)
 
 <br/>
 
