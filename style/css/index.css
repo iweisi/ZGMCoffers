@@ -84,8 +84,8 @@ body{ font-size: 14px; font-family: "黑体-简","黑体","微软雅黑", Arial,
 	position: fixed;
 	top: 0;
 	z-index: 12;
-	height: 100%;
-	width: 100px;
+	height: 730px;
+	width: 120px;
 	color: #fff;
 	background: #111213;
 }
@@ -96,7 +96,7 @@ body{ font-size: 14px; font-family: "黑体-简","黑体","微软雅黑", Arial,
 	-webkit-perspective: 200px;
 	transform-style: preserve-3d;
 	-webkit-transform-style: preserve-3d;
-	height: 100%;
+	height: 730px;
 	z-index: 99;
 }
 .nav-ul li a{
