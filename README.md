@@ -16,7 +16,7 @@
 
 <br/>
 
-| <img src="style/images/jihe.jpg" style='max-width:600px'></img> | <img src="style/images/thread.jpg" style='max-width:600px'></img> | <img src="style/images/jvm.jpg" style='max-width:600px'></img> | <img src="style/images/fenbushi.jpg" style='max-width:600px'></img> | <img src="style/images/kuangjia.jpg" style='max-width:600px'></img> | <img src="style/images/jiagou.jpg" style='max-width:600px'></img> | <img src="style/images/database.jpg" style='max-width:600px'></img> | <img src="style/images/suanfa.jpg"  style='max-width:600px'></img> | <img src="style/images/netty.jpg"  style='max-width:600px'></img> | <img src="style/images/fujiajineng.jpg" style='max-width:600px'></img>  | <img src="style/images/lianxizuozhe.jpg" />
+| <img src="style/images/jihe.jpg" /> | <img src="style/images/thread.jpg" /> | <img src="style/images/jvm.jpg" /> | <img src="style/images/fenbushi.jpg" /> | <img src="style/images/kuangjia.jpg" /> | <img src="style/images/jiagou.jpg" /> | <img src="style/images/database.jpg" /> | <img src="style/images/suanfa.jpg" /> | <img src="style/images/netty.jpg" /> | <img src="style/images/fujiajineng.jpg" />  | <img src="style/images/lianxizuozhe.jpg" />
 | :--------: | :---------: | :---------: | :---------: | :---------: | :---------:| :---------: | :-------: | :-------:| :------:|:------:|
 | [集合](#常用集合) | [多线程](#java-多线程)|[JVM](#jvm) | [分布式](#分布式相关) |[框架](#常用框架第三方组件)|[架构设计](#架构设计)| [数据库](#db-相关) |[算法](#数据结构与算法)|[Netty](#netty-相关)| [附加技能](#附加技能)|[联系作者](#联系作者) |
 
